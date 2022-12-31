@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel van de Ven</h1>
 <h3 align="center">Full stack developer from Antwerp, Belgium</h3>
 
-- 👨‍💻 All of my projects are available at [samuelvandeven.com](samuelvandeven.com)
+- 👨‍💻 All of my projects are available at [samuelvandeven.com](https://samuelvandeven.com)
 
 - 📫 How to reach me **www.linkedin.com/in/samuel-van-de-ven
 **
